@@ -2,9 +2,11 @@
   {
     "id": 1,
     "description": "Ciao",
+    "status": "todo"
   },
   {
     "id": 2,
     "description": "Ciao 2",
+    "status": "todo"
   }
 ]
