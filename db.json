@@ -1,12 +1,10 @@
 [
   {
-    "taskId": 1,
-    "title": "Ciao",
-    "completed": false
+    "id": 1,
+    "description": "Ciao",
   },
   {
-    "taskId": 2,
-    "title": "Ciao 2",
-    "completed": false
+    "id": 2,
+    "description": "Ciao 2",
   }
 ]
